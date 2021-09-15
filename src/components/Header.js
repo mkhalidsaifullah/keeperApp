@@ -4,7 +4,7 @@ const Header = () => {
     return (
         <header>
             <h1>
-                Keeper
+                Keeper app
             </h1>
         </header>
     )
